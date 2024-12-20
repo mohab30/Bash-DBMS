@@ -70,5 +70,3 @@ This project is a **Command-Line Interface (CLI) based Database Management Syste
 This project is open-source. Feel free to use and modify it as per your needs.
 
 ---
-
-Would you like me to adjust or expand any section?
