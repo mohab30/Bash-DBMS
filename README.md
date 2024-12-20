@@ -1,8 +1,3 @@
-# Bash-DBMS
-A CLI-based DBMS that enables users to store and retrieve data from disk
-
----
-
 # Simple Database Management System (DBMS) in Bash
 
 ## Project Description
@@ -31,11 +26,15 @@ This project is a **Command-Line Interface (CLI) based Database Management Syste
 
 1. Clone or download the repository.
 2. Open a terminal and navigate to the project directory.
-3. Run the script:
+3. Ensure the script is executable by running:
+   ```bash
+   chmod +x dbms.sh
+   ```
+4. Run the script:
    ```bash
    ./dbms.sh
    ```
-4. Follow the menu prompts to perform various operations.
+5. Follow the menu prompts to perform various operations.
 
 ---
 
@@ -68,5 +67,3 @@ This project is a **Command-Line Interface (CLI) based Database Management Syste
 ## License
 
 This project is open-source. Feel free to use and modify it as per your needs.
-
----
